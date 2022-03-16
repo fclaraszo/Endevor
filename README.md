@@ -1,5 +1,7 @@
 <p align="center">
-<img src=Broadcom-Endevor.jpg"" width="350">
+<img src="Broadcom-Endevor.jpg" width="200">
 </p>
-# <p align="center"> "*ERRORES DE ENDEVOR*" </P>
+## <p align="center"> *Endevor Manual Error* </p>
+
+
 
