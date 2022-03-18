@@ -4,10 +4,10 @@
 
 # <p align="center">"**Endevor Manual Error**"</p>
 
--------------------------------------------------------------------------------------
-| :red_circle: C1LB003E ELIB FULL OR MEMBER SIZE > RESERVE PAGES-SACC.DESA.SOMS.LISTLIB C1X0010I  STEP STORLIST PROGRAM CONLIST COMPLETED RC=0012 |
 
-
+| Mensaje de error | Solución                                                     |
+| -----------------|--------------------------------------------------------------|
+| ELIB FULL SIZE   | Ejecutar los procesos selecionados                           |
 
 
 
