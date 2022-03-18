@@ -1,13 +1,28 @@
 <p align="center">
-<img src="Broadcom-Endevor.jpg" width="200">
+<img src="Data-base.jpg" width="200">
 </p>
 
-# <p align="center">"**Endevor Manual Error**"</p>
+# <p align="center">"**Data Base Collection**"</p>
 
+# <p align="center">"*Credit System*"</p>
 
-| Mensaje de error | Solución                                                     |
-| -----------------|--------------------------------------------------------------|
-| ELIB FULL SIZE   | Ejecutar los procesos selecionados                           |
+| Stage | SSID | System | Type  | Package | Owner  | Qualifier | VA  | Package | Owner | Qualifier |
+| DESA	| DSND |CRE	    |   B   |BNCCOBD2 |GDB2DBNC| GDB2DBNC  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|CMSCOBD2 |GDB2DCMS| GDB2DCMS  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|CPLCOBD2 |GDB2DCPL| GDB2DCRE  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|LCVCOBD2 |GDB2DLCV| GDB2DLCV  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE	    |   B	|LPCCOBD2 |GDB2DLCV| GDB2DLCV  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|MDECOBD1 |GDB2DMDE| GDB2DMDE  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|SILCOBD2 |GDB2DCRE| GDB2DCRE  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	B	|SSCCOBD1 |GDB2DCRE| GDB2DCRE  |BIND |SOMBCOLD |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|BNCCOLD2 |GDB2DBNC| GDB2DBNC  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|CMSCOLD2 |GDB2DCMS| GDB2DCMS  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|CPLCOLD2 |GDB2DCPL| GDB2DCRE  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE 	|   L	|LCVCOLD2 |GDB2DLCV| GDB2DLCV  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|LPCCOLD2 |GDB2DLCV| GDB2DLCV  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|MDECOLD1 |GDB2DMDE| GDB2DMDE  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+| DESA	| DSND |CRE     |	L	|SSCCOLD1 |GDB2DCRE| GDB2DCRE  |BIND |SOMCOLD  |GDB2COS|GDB2A01|
+
 
 
 
